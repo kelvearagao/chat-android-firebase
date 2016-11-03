@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "170954706458",
+    "firebase_url": "https://chat2-b29ad.firebaseio.com",
+    "project_id": "chat2-b29ad",
+    "storage_bucket": "chat2-b29ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170954706458:android:3de11d2e82114f2b",
+        "android_client_info": {
+          "package_name": "com.kelvearagao.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170954706458-d9mugut5tevd5hsq7lahmnoe49oh7dmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRlF1eY3pqqGdY6XrGssJT9jO8yf54Apc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
